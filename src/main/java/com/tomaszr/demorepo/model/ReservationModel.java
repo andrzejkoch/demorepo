@@ -17,7 +17,7 @@ import java.time.LocalDate;
 @Entity
 //jeśłi nazwa klasy jest różna od nazwy tabeli, to trzeba uzyć poniższej adnotacji
 @Table(name ="reservations")
-@NoArgsConstructor
+//@NoArgsConstructor
 
 public class ReservationModel {
 //klucz główny
